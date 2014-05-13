@@ -1,4 +1,5 @@
 Neander_VHDL
+
 == Author: Ronaldo Dall'Agnol Veiga
 
 ==			@roniveiga
@@ -13,10 +14,16 @@ Neander_VHDL
 TODO
 
 apresentação ->
+
 	novo testbench
+	
 	print dos codigos
+	
 	simulação com/sem atraso
 	
+	
 na placa ->
+
 	7 segmentos
+	
 	monitor
