@@ -15,11 +15,13 @@ TODO
 
 apresentação ->
 
-	novo testbench
+	[check] novo testbench
 	
-	print dos codigos
+	[] 	print dos codigos
 	
-	simulação com/sem atraso
+	[check] simulação sem atraso
+	
+	[] 	simulação sem atraso
 	
 	
 na placa ->
