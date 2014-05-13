@@ -1,9 +1,14 @@
 Neander_VHDL
 == Author: Ronaldo Dall'Agnol Veiga
+
 ==			@roniveiga
-== UFRGS - Instituto de Informática
+
+== UFRGS - Instituto de Informátic
+
 == Sistemas Digitais
+
 == Profa. Dra. Fernanda Gusmão de Lima Kastensmidt
+
 ============
 TODO
 
